@@ -71,7 +71,7 @@ Feel free to use this notebook for learning, reference, or inspiration.
 
 ##  Author
 
-**[Fidan Bannayeva](www.linkedin.com/in/fbannayeva)**
+Fidan Bannayeva [LinkedIn](www.linkedin.com/in/fbannayeva)
 
 ---
 
